@@ -13,7 +13,6 @@
   <packaging>jar</packaging>
 
   <name>Multi Chapter Simple Weather API</name>
-         <!xml!>
 
   <build>
     <pluginManagement>
