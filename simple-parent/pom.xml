@@ -17,7 +17,7 @@
     <module>simple-weather</module>
     <module>simple-webapp</module>
   </modules>
-<!-- xm -->
+<!-- xml-->
   <build>
     <pluginManagement>
     <plugins>
